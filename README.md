@@ -1,3 +1,14 @@
+First build:
+Following this thread: https://bitcointalk.org/index.php?topic=149479.0
+This repository begins just above section "Compile bitcoin-qt 0.8.6 with Qt 4.8:"
+
+With the lines:
+cd /c/bitcoin-0.8.6/src
+make -f makefile.mingw
+strip bitcoind.exe"
+
+
+
 DarkCoin integration/staging tree
 ================================
 
